@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head> 
+<title> my first page </title></head>
+<body>
+
+<h1> welcome </h1>
+
+
+<p> helo everyone how are you all</p>
+<h2> hii </h2>
+
+</body>
+</html>
