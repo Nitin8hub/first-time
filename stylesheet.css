@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+
+
+body{background-position:top;
+background-size:cover !important;
+font-size:24px;
+   font-family:Raleway;
+   
+}
+     #back{
+		 background:url(luc.jpg);
+		 background-attachment:fixed;
+	 }
+	 
+     #main{
+	 background-color:none;
+	  border:10px;
+	 border-radius:30px;
+	 border-left-color:#000;
+	 
+	 }
+  
+  
+  
+  
+   div{
+		width:1000px;
+		margin:100px 300px 100px;
+		
+		
+	}
+  
+   #block{
+	   background-color:lightblue;
+	   
+     }
+h1,h2{
+text-align:center;
+margin:10px;
+}
+h1{border-bottom:5px solid #fff;
+ padding:10px;}
+ .distant{
+	 padding:41px;
+ }
+ 
+   
+   
+   .blue{
+   color:blue;
+   }
+   nav a:link{
+	   color:brown;
+	   text-decoration:none;
+	   
+   }
+   nav ul{
+   list-style-type:none;
+   }
+   nav li{
+   display:inline;
+   }
+   nav a:visited{
+   color:purple;
+    background-color:gray;
+   }
+   nav a:hover{
+	   color:white;
+	    background-color:skyblue;
+   }
+   
+    #block1{
+	   background-color:white;
+	   opacity:.8;
+	   border-radius:50px;
+	   
+	   text-align:justify;
+	   
+	  border:10px;
+	 border-radius:30px;
+	 border-color:lightblue;
+	 box-shadow:8px 12px 25px;
+	 transition:all .1s;
+	 
+	  }
+	  #block1:hover{box-shadow:16px 24px 45px ;
+	     
+		 }
+		  #block2:hover{box-shadow:16px 24px 45px ;}
+		   #block3:hover{box-shadow:16px 24px 45px ;
+		   }	  
+   #block2{background-color:white;
+	   opacity:.8;
+	   border-radius:50px;
+	   text-align:justify;
+	   box-shadow:8px 12px 25px;
+	   
+	   
+	   
+     }
+	 #blocks{
+	 }
+	 
+	#block3{background-color:white;
+	   opacity:.8;
+	   border-radius:50px;
+	   box-shadow:8px 12px 25px;
+		
+		width:1200px;
+		margin-left:180px;
+		
+		text-align:justify;
+		
+	}
+	
+   
+	 
+   
+   
